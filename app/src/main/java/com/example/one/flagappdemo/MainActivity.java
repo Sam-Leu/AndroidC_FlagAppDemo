@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
     private  int[] icons = {R.drawable.algeria,R.drawable.aruba,R.drawable.austria,R.drawable.chile,R.drawable.china,R.drawable.colombia,R.drawable.denmark,R.drawable.dominica,R.drawable.ecuador,R.drawable.france};
 
 
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
